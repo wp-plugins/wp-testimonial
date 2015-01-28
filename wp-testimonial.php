@@ -3,7 +3,7 @@
 Plugin Name: WP Testimonial
 Plugin URI: http://raghunathgurjar.wordpress.com
 Description: "WP Testimonial" is a very simple plugins for add to testimonials on your site. 
-Version: 1.4
+Version: 1.0
 Text Domain: raghunath
 Author: Raghunath Gurjar
 Author URI: http://www.facebook.com/raghunathprasadgurjar
