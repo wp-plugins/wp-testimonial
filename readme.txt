@@ -3,7 +3,7 @@ Contributors: india-web-developer
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WN785E5V492L4
 Tags: Testimonial,Testimonial Rotator,Testimonial Slider, Responsive Testimonial Rotator, Simple Testimonials,Testimonials Widget
 Requires at least: 3.0
-Tested up to: 4.1.2
+Tested up to: 4.2
 Stable tag: 1.0
 
 Add Testimonials on your website.
